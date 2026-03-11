@@ -2,7 +2,7 @@
 <!--                        HEADER WAVE                              -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:8b0000,70:c0392b,100:e8b84b&height=160&section=header&text=SAGAR%20D.%20SARDAR&fontSize=40&fontColor=f5e6c8&fontAlignY=62&animation=fadeIn&desc=Aspiring-Full-Stack%20Developer%20%7C%20Pirate%20of%20the%20Code%20Seas&descAlignY=82&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:8b0000,70:c0392b,100:e8b84b&height=160&section=header&text=SAGAR%20D.%20SARDAR&fontSize=40&fontColor=f5e6c8&fontAlignY=62&animation=fadeIn&desc=Aspiring%20Full-Stack%20Developer%20%7C%20Pirate%20of%20the%20Code%20Seas&descAlignY=82&descSize=15" width="100%"/>
 
 <div align="center">
 
